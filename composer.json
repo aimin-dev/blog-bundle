@@ -13,7 +13,7 @@
         {
             "name": "Stephan Randriamahenina",
             "email": "m6ahenina@gmail.com"
-        },
+        }
     ],
     "require": {
         "php": "^7.1.3",
