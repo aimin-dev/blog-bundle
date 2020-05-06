@@ -1,1 +1,1 @@
-blog-bundle
+BlogBundle for Symfony projects.
