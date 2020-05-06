@@ -6,7 +6,7 @@
         "Symfony",
         "Blog",
     ],
-    "homepage": "http://google.com",
+    "homepage": "https://github.com/aimin-dev/blog-bundle",
     "license": "MIT",
     "minimum-stability": "dev",
     "authors": [
